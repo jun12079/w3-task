@@ -29,6 +29,11 @@
 	line-height: 1.5;
 	display: block;
 	padding: 25px 0px;
+	transition: 0.5s;
+}
+
+.nav-items li a:hover {
+	color: #000000;
 }
 
 @media (max-width: 576px) {

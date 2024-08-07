@@ -5,9 +5,15 @@
     padding-right: 12px;
 }
 
+@media (max-width: 992px) {
+    .container {
+        max-width: 720px;
+    }
+}
+
 @media (max-width: 576px) {
     .container {
-        max-width: 100%;
+        max-width: 372px;
     }
 }
 

@@ -16,6 +16,12 @@
 	font-size: 16px;
 	line-height: 1.5;
 	display: block;
+
+	transition: 0.5s;
+}
+
+.footer-items li a:hover {
+	color: #000000;
 }
 
 .social-items {
